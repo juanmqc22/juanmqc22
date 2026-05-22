@@ -9,39 +9,45 @@
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Backend & Automação
-![My Skills](https://skillicons.dev/icons?i=python,nodejs,fastapi,cs,dotnet)
+<p align="center">
+
+### 👨‍💻 Backend & Automation
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,cs,dotnet" />
+
+<br><br>
 
 ### 🎨 Frontend
-![My Skills](https://skillicons.dev/icons?i=react,angular,html,css,js,ts)
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts" />
+
+<br><br>
 
 ### ☁️ Cloud & Database
-![My Skills](https://skillicons.dev/icons?i=azure,docker,postgres,mysql,mongodb)
+<img src="https://skillicons.dev/icons?i=azure,docker,postgres,mysql,mongodb" />
 
-### 🛠️ Tools & Platforms
+<br><br>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=juanmqc22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmqc22&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juanmqc22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmqc22&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=juanmqc22&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juanmqc22&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
