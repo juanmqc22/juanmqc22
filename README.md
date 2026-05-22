@@ -15,14 +15,6 @@ Building intelligent automations, scalable backend systems and enterprise soluti
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,react,figma,firebase,flask,java,jquery,mysql,nodejs,php,express,docker,ps,ai,py,threejs,ts,vercel,vite,tailwind,vscode,visualstudio,dotnet,bootstrap,blender,angular,git" />
-  </a>
-</p>-->
-
-###
 <div align="center">
   <table>
     <tr>
@@ -35,6 +27,12 @@ Building intelligent automations, scalable backend systems and enterprise soluti
     </tr>
   </table>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanmqc22/juanmqc22/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanmqc22/juanmqc22/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/juanmqc22/juanmqc22/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🧠 Focus Areas
 
