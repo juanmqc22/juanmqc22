@@ -1,82 +1,44 @@
-<div align="center">
-
 # 👋 Hi, I'm Juan Marco
 
 ### Backend Developer • AI • Power Platform • Automation
 
-<p>
-Building intelligent automations, scalable backend systems and enterprise solutions.
-</p>
-
-</div>
+Building intelligent automations, scalable backend systems, and enterprise solutions.
 
 ---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠️ Skills & Tools
 
-###
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,bootstrap,figma" /></td>
-      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=python,mysql,java,hibernate,cs,spring" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>IA</b><br><img src="https://skillicons.dev/icons?i=sklearn,aws,py,pytorch,azure,pycharm" /></td>
-      <td align="center"><b>DevOps and Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,androidstudio,vscode,visualstudio,idea" /></td>
-    </tr>
-  </table>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanmqc22/juanmqc22/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanmqc22/juanmqc22/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/juanmqc22/juanmqc22/output/pacman-contribution-graph.svg">
-</picture>
-
-## 🧠 Focus Areas
-
-- 🤖 Artificial Intelligence Applied to Business
-- ⚡ Power Platform & Power Automate
-- 🗄️ Dataverse Architecture
-- 🔌 APIs & System Integrations
-- 📊 Power BI & Analytics
-- 🏗️ Backend Engineering
-- 🚀 Intelligent Process Automation
+- Backend: Python, Java, C#, MySQL, APIs, automation
+- AI / Data: scikit-learn, PyTorch, Azure, machine learning workflows
+- Frontend: HTML, CSS, JavaScript, React, Tailwind
+- DevOps & Tools: Docker, Git, VS Code, Azure, Power Platform
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-### 🤖 AI & Optimization
-Projects focused on optimization, intelligent systems and AI applied to automation.
+- **[WomanGuardian_TechChallenge4](https://github.com/juanmqc22/WomanGuardian_TechChallenge4)** 🛡️👩‍💻
+  - Description: Technical challenge focused on a women safety platform, combining a modern frontend interface with backend logic for secure user workflows.
+  - Techs: Streamlit, Python, YOLOv8, Azure
 
-### ⚡ Enterprise Automation
-Business automation projects integrating APIs, Power Platform and backend services.
+- **[ml-diabetes-detection](https://github.com/juanmqc22/ml-diabetes-detection)** 🧠📈
+  - Description: Diabetes prediction project that highlights data preprocessing, model training, evaluation, and practical ML deployment concepts.
+  - Techs: Python, scikit-learn, Pandas, Jupyter Notebook
 
-### 📊 Data & Analytics
-Dashboards, data integrations and analytical solutions using Power BI and Python.
-
----
-
-<div align="center">
-
-## 🌎 Connect with Me
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+- **[Portfolio_Dev](https://github.com/juanmqc22/Portfolio_Dev)** 💼🌐
+  - Description: Personal developer portfolio with a clean responsive layout, showcasing skills, projects and professional experience.
+  - Techs: HTML, CSS, JavaScript, Bootstrap
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-### 🚀 Building AI-driven solutions and scalable automations
+I'm a Backend Developer passionate about Artificial Intelligence, automation, and scalable solutions. I build efficient systems using APIs, data management, and modern technologies while prioritizing performance, security, and clean architecture.
 
-</div>
+Currently I’m deepening expertise in AI, Power Platform, Dataverse, and intelligent process optimization to create smarter and more impactful solutions.
+
+---
+
+## 📬 Connect
+
+[LinkedIn](https://www.linkedin.com/in/juan-quezada/)
